@@ -40,9 +40,13 @@ Each **episode branch** contains:
 | Episode | Problem Title | Branch |
 |---------|---------------|--------|
 | 1 | Your VPC Lambda Can’t See Secrets (Here’s Why) | [`S1-VPC-Lambda-SecretsManager`](https://github.com/xinitry/From-0-To-Production-On-AWS/tree/S1-VPC-Lambda-SecretsManager) |
-| 2 | API Gateway Breaks Your Lambda (Here's Why) | [`S2-ApiGateway-Breaks-Lambda`](https://github.com/xinitry/From-0-To-Production-On-AWS/tree/S2-ApiGateway-Breaks-Lambda) |
-| 3 | Cognito Settings You Overlooked (Complete Setup Guide) | [`S3-Cognito-Setup`](https://github.com/xinitry/From-0-To-Production-On-AWS/tree/S3-Cognito-Setup) |
-| 4 | You Logged In but Can’t Find Your Token (Here’s Why) | [`S4-Cognito-Tokens`](https://github.com/Xinitry/From-0-To-Production-On-AWS/tree/S4-Cognito-Tokens) |
+| 2 | Cognito Settings You Overlooked (Complete Setup Guide) | [`S3-Cognito-Setup`](https://github.com/xinitry/From-0-To-Production-On-AWS/tree/S2-Cognito-Setup) |
+<!-- | 3 | You Logged In but Can’t Find Your Token (Here’s Why) | [`S4-Cognito-Tokens`](https://github.com/Xinitry/From-0-To-Production-On-AWS/tree/S3-Cognito-Tokens) |
+| 4 | Your Cognito Domain Isn’t Really Yours | [`S4-Cognito-Tokens`](https://github.com/Xinitry/From-0-To-Production-On-AWS/tree/S4-Cognito-Tokens) |
+| 5 | Your App Fails Without Temporary Credentials (Here's Why) | [`S4-Cognito-Tokens`](https://github.com/Xinitry/From-0-To-Production-On-AWS/tree/S5-Cognito-Tokens) |
+| 6 | Your Auth Page Works… Until You Click Login | [`S4-Cognito-Tokens`](https://github.com/Xinitry/From-0-To-Production-On-AWS/tree/S6-Cognito-Tokens) |
+| 7 | API Gateway Breaks Your Lambda (Here's Why) | [`S2-ApiGateway-Breaks-Lambda`](https://github.com/xinitry/From-0-To-Production-On-AWS/tree/S7-ApiGateway-Breaks-Lambda) |
+| 8 | Think Your API Is Secure? | [`S8-ApiGateway-Breaks-Lambda`](https://github.com/xinitry/From-0-To-Production-On-AWS/tree/S2-ApiGateway-Breaks-Lambda) | -->
 
 *(Links will point to each episode’s branch once published.)*
 
@@ -50,7 +54,7 @@ Each **episode branch** contains:
 
 ## 🚀 Follow Along
 
-- **YouTube Playlist:** [From 0 to Production on AWS](https://youtube.com/...)  
+- **YouTube Playlist:** [From 0 to Production on AWS](https://youtube.com/playlist?list=PLZAot5oalb8emxzTMAAkOCV71IH3rsNf-&si=0kxBGH_StkozEYVS)  
 - **Author:** [Xinitry](https://xinitry.com)  
 
 ---
