@@ -1,6 +1,6 @@
 # Cognito Settings You Overlooked (Complete Setup Guide)
 
-🔴 **[Watch the full tutorial on YouTube](https://youtube.com/your-video-link)**
+🔴 **[Watch the full tutorial on YouTube](https://www.youtube.com/watch?v=FD-HXHpvLFA)**
 
 ## 🔧 Project Overview
 
