@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cognito Login Demo</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.1692.0.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        #logout-btn { display: none; margin-top: 10px; }
+        #message { margin-top: 20px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <button id="login-btn">Login</button>
+    <button id="logout-btn">Logout</button>
+    <div id="message"></div>
+    <pre id="userdata"></pre>
+    <pre id="id_token"></pre>
+    <pre id="access_token"></pre>
+
+    <script src="script.js"></script>
+</body>
+</html>
