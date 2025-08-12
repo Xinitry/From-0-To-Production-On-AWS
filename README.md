@@ -39,8 +39,8 @@ Each **episode branch** contains:
 
 | Episode | Problem Title | Video | Branch |
 |---------|---------------|--------|--------|
-| 1 | Your VPC Lambda Can’t See Secrets (Here’s Why) | [Watch Now!](https://youtu.be/7NdjUl2aRZc?si=6IQOxjMDV-bTmygt) | - |
-| 2 | Cognito Settings You Overlooked (Complete Setup Guide) | [Watch Now!](https://youtu.be/hDC4V1uUFkY?si=ho03KS23ahZp_sCJ) | [`S2-Cognito-Setup`](https://github.com/xinitry/From-0-To-Production-On-AWS/tree/S2-Cognito-Setup) |
+| 1 | Your VPC Lambda Can’t See Secrets (Here’s Why) | [Watch Now!](https://youtu.be/7NdjUl2aRZc) | - |
+| 2 | Cognito Settings You Overlooked (Complete Setup Guide) | [Watch Now!](https://youtu.be/hDC4V1uUFkY) | [`S2-Cognito-Setup`](https://github.com/xinitry/From-0-To-Production-On-AWS/tree/S2-Cognito-Setup) |
 | 3 | You Logged In but Can’t Find Your Token (Here’s Why) | Coming Soon | [`S3-Cognito-Tokens`](https://github.com/xinitry/From-0-To-Production-On-AWS/tree/S3-Cognito-Tokens) |
 | 4 | Your Cognito Domain Isn’t Really Yours | Coming Soon | - |
 | 5 | Your App Fails Without Temporary Credentials (Here's Why) | Coming Soon | - |
