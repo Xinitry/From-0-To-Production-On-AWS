@@ -107,7 +107,7 @@ $(document).ready(function () {
         showMessage("You are now logged out.");
         $("#userdata").text("");
         $("#id_token").text("");
-        $("#access_toke").text("");
+        $("#access_token").text("");
         $("#login-btn").show();
         $("#logout-btn").hide();
     });
