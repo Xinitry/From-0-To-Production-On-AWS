@@ -37,16 +37,16 @@ Each **episode branch** contains:
 
 ## 📚 Episode Index
 
-| Episode | Problem Title | Branch |
-|---------|---------------|--------|
-| 1 | Your VPC Lambda Can’t See Secrets (Here’s Why) |  |
-| 2 | Cognito Settings You Overlooked (Complete Setup Guide) | [`S2-Cognito-Setup`](https://github.com/xinitry/From-0-To-Production-On-AWS/tree/S2-Cognito-Setup) |
-<!-- | 3 | You Logged In but Can’t Find Your Token (Here’s Why) | [`S4-Cognito-Tokens`](https://github.com/Xinitry/From-0-To-Production-On-AWS/tree/S3-Cognito-Tokens) |
-| 4 | Your Cognito Domain Isn’t Really Yours | [`S4-Cognito-Tokens`](https://github.com/Xinitry/From-0-To-Production-On-AWS/tree/S4-Cognito-Tokens) |
-| 5 | Your App Fails Without Temporary Credentials (Here's Why) | [`S4-Cognito-Tokens`](https://github.com/Xinitry/From-0-To-Production-On-AWS/tree/S5-Cognito-Tokens) |
-| 6 | Your Auth Page Works… Until You Click Login | [`S4-Cognito-Tokens`](https://github.com/Xinitry/From-0-To-Production-On-AWS/tree/S6-Cognito-Tokens) |
-| 7 | API Gateway Breaks Your Lambda (Here's Why) | [`S2-ApiGateway-Breaks-Lambda`](https://github.com/xinitry/From-0-To-Production-On-AWS/tree/S7-ApiGateway-Breaks-Lambda) |
-| 8 | Think Your API Is Secure? | [`S8-ApiGateway-Breaks-Lambda`](https://github.com/xinitry/From-0-To-Production-On-AWS/tree/S2-ApiGateway-Breaks-Lambda) | -->
+| Episode | Problem Title | Video | Branch |
+|---------|---------------|--------|--------|
+| 1 | Your VPC Lambda Can’t See Secrets (Here’s Why) | [Watch Now!](https://youtu.be/7NdjUl2aRZc?si=6IQOxjMDV-bTmygt) | - |
+| 2 | Cognito Settings You Overlooked (Complete Setup Guide) | [Watch Now!](https://youtu.be/hDC4V1uUFkY?si=ho03KS23ahZp_sCJ) | [`S2-Cognito-Setup`](https://github.com/xinitry/From-0-To-Production-On-AWS/tree/S2-Cognito-Setup) |
+| 3 | You Logged In but Can’t Find Your Token (Here’s Why) | Coming Soon | [`S3-Cognito-Tokens`](https://github.com/xinitry/From-0-To-Production-On-AWS/tree/S3-Cognito-Tokens) |
+| 4 | Your Cognito Domain Isn’t Really Yours | Coming Soon | - |
+| 5 | Your App Fails Without Temporary Credentials (Here's Why) | Coming Soon | - |
+| 6 | Your Auth Page Works… Until You Click Login | Coming Soon | - |
+| 7 | API Gateway Breaks Your Lambda (Here's Why) | Coming Soon | - |
+| 8 | Think Your API Is Secure? | Coming Soon | - |
 
 *(Links will point to each episode’s branch once published.)*
 
