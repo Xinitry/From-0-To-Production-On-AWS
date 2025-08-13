@@ -6,7 +6,45 @@
 
 ## Cognito cURL Generator
 
-This repository includes a Python script that generates cURL commands for AWS Cognito authentication. The script helps you obtain authentication tokens by creating the proper cURL request with the required SECRET_HASH.
+This Branch includes a Python script that generates cURL commands for AWS Cognito authentication. The script helps you obtain authentication tokens by creating the proper cURL request with the required SECRET_HASH.
+
+---
+
+## 🛠 Prerequisites
+
+Before running the script, make sure you have the following installed:
+
+1. **Python 3.10+**
+
+   * [Download Python](https://www.python.org/downloads/)
+   * On macOS/Linux, verify installation:
+
+     ```bash
+     python3 --version
+     ```
+   * On Windows, verify installation:
+
+     ```powershell
+     python --version
+     ```
+
+2. **Pip (Python package manager)**
+
+   * Usually included with Python installation. Verify:
+
+     ```bash
+     pip --version
+     ```
+
+3. **VS Code Python Development Setup (optional but recommended)**
+
+   * Install Visual Studio Code: [Download VS Code](https://code.visualstudio.com/)
+   * Install the following extensions for Python development:
+
+     * [Python by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+     * [Debugpy - Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
+
+---
 
 ### Usage
 
