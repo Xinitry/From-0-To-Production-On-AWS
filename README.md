@@ -1,6 +1,6 @@
 # You Logged In but Can't Find Your Token (Here is Why)
 
-🟡 **[To be able to follow along, make sure to watch our AWS Cognito Tutorial first](https://youtube.com/your-video-link)**
+🟡 **[To be able to follow along, make sure to watch our AWS Cognito Tutorial first](https://youtu.be/hDC4V1uUFkY)**
 
 🔴 **[Watch the full tutorial on YouTube](https://youtube.com/your-video-link)**
 
