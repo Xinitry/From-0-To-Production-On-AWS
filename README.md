@@ -1,4 +1,4 @@
-# You Logged In but Can't Find Your Token (Here is Why)
+# You’re Wasting Time Getting Cognito Tokens
 
 🟡 **[To be able to follow along, make sure to watch our AWS Cognito Tutorial first](https://youtu.be/hDC4V1uUFkY)**
 
