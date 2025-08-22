@@ -46,7 +46,7 @@ Each **episode branch** contains:
 | 5 | Your App Fails Without Temporary Credentials (Here's Why) | Coming Soon | - |
 | 6 | Your Auth Page Works… Until You Click Login | Coming Soon | - |
 | 7 | API Gateway Breaks Your Lambda (Here's Why) | [Watch Now!](https://youtu.be/bVTPRcCl-zI) | - |
-| 8 | Think Your API Is Secure? | [Watch Now!](https://youtu.be/-pYdGRvaQRE) | - |
+| 8 | Think Your API Is Secure? | [Watch Now!](https://youtu.be/C5su2sBjSik) | - |
 
 *(Links will point to each episode’s branch once published.)*
 
