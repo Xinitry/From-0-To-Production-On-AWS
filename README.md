@@ -45,7 +45,7 @@ Each **episode branch** contains:
 | 4 | Your Cognito Domain Isn’t Really Yours | Coming Soon | - |
 | 5 | Your App Fails Without Temporary Credentials (Here's Why) | Coming Soon | - |
 | 6 | Your Auth Page Works… Until You Click Login | Coming Soon | - |
-| 7 | API Gateway Breaks Your Lambda (Here's Why) | Coming Soon | - |
+| 7 | API Gateway Breaks Your Lambda (Here's Why) | [Watch Now!](https://youtu.be/bVTPRcCl-zI) | - |
 | 8 | Think Your API Is Secure? | [Watch Now!](https://youtu.be/-pYdGRvaQRE) | - |
 
 *(Links will point to each episode’s branch once published.)*
